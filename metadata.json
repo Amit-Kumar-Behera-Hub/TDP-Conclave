@@ -1,0 +1,7 @@
+{
+  "name": "AgriTech: AI for Sustainable Farming",
+  "description": "An academic project showcasing the transformative role of AI in agriculture, featuring real-time crop analysis and soil health monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
